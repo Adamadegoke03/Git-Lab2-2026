@@ -1,14 +1,14 @@
 # Wi‑Fi Troubleshooting Guide
 
-## Current Revissss1wwwsion
+## Current Revision
 
 Document Owner: Help Desk Team
 Last Updated: September 2026
 Priority: Standard
 
-## Overview
-
+Overview
 This guide provides common troubleshooting steps for wireless connectivity issues.
+---
 
 ## Unable to Connect to Wi‑Fi
 
@@ -25,4 +25,18 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+
+
+SLOW WIRELESS CONNECTION SECTION
+---
+
+
+1. Slow wi-fi
+
+2. Fix slow Wi-fi
+
+
+
+
 
