@@ -1,6 +1,6 @@
 # Wi‑Fi Troubleshooting Guide
 
-## Current Revision
+## Current Revissss1wwwsion
 
 Document Owner: Help Desk Team
 Last Updated: September 2026
@@ -25,3 +25,4 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
