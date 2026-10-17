@@ -28,15 +28,13 @@ If the issue persists after all troubleshooting steps have been completed, conta
 
 
 
-SLOW WIRELESS CONNECTION SECTION
----
+
+
+## SLOW WIRELESS CONNECTION SECTION
+
 
 
 1. Slow wi-fi
 
 2. Fix slow Wi-fi
-
-
-
-
 
